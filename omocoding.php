@@ -6,6 +6,7 @@ return range ($start, $end);
 $range = startend(3,8);
 print_r($range);
 ?>
+<br>
 
 <!-- The return of the sum of numbers in the array (5,20,45,25,65) -->
 
